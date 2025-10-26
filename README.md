@@ -18,9 +18,6 @@ It helps analyze how socio-economic conditions affect national happiness.
 Reason for Choosing:  
 To explore how living conditions and government policies influence happiness across countries.
 
-Kaggle Link:  
-🔗 [World Happiness Report – Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-
 ---
 
 ### 2. 🦠 COVID-19 Global Dataset
@@ -30,9 +27,6 @@ Maintained by Johns Hopkins University and available on Kaggle.
 
 Reason for Choosing:  
 To analyze time-series trends of the COVID-19 pandemic and its effects on global health.
-
-Kaggle Link:  
-🔗 [COVID-19 Global Dataset – Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
 ---
 
@@ -44,18 +38,15 @@ It helps in understanding mental health and social challenges worldwide.
 Reason for Choosing:  
 To identify mental health trends and correlate them with socio-economic and happiness data.
 
-Kaggle Link:  
-🔗 [Global Suicide Rates – Kaggle](https://www.kaggle.com/datasets/szamil/who-suicide-statistics)
-
 ---
 
 ## 🧩 Summary Table
 
-|        Dataset          |           Description          |         Reason for Choosing        |                          Kaggle Link                                  |
-|-------------------------|--------------------------------|------------------------------------|-----------------------------------------------------------------------|
-| World Happiness Report  | Global happiness indicators    | Analyze world happiness trends     | [Link](https://www.kaggle.com/datasets/unsdsn/world-happiness)        |
-| COVID-19 Global Dataset | Global pandemic data           | Study health and pandemic effects  | [Link](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)  |
-| Global Suicide Rates    | Mental health and suicide data | Explore mental well-being patterns | [Link](https://www.kaggle.com/datasets/szamil/who-suicide-statistics) |
+|        Dataset          |           Description          |         Reason for Choosing        | 
+|-------------------------|--------------------------------|------------------------------------|
+| World Happiness Report  | Global happiness indicators    | Analyze world happiness trends     | 
+| COVID-19 Global Dataset | Global pandemic data           | Study health and pandemic effects  |
+| Global Suicide Rates    | Mental health and suicide data | Explore mental well-being patterns |
 
 ---
 
